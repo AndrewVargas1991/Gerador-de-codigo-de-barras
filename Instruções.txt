@@ -1,0 +1,13 @@
+Instruções de uso do programa Gerador de código de barras
+
+1- Abra o programa "Gerador de código de barras.py" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2ª OBS: Caso não tenha a biblioteca python-barcode instalada, abra o CMD (processador de comandos) e digite
+o seguinte comando e aperte ENTER:
+pip install python-barcode
+
+2- Execute o arquivo "Gerador de código de barras.py". Se tudo funcionou corretamente, o código de barras
+terá sido gerado e será aberto com o navegador de internet padrão.
+
+OBS: Um arquivo chamado "CODIGO.svg" foi criado no diretório do programa.
